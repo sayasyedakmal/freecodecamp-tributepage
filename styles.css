@@ -19,8 +19,8 @@ header {
 
 img {
     padding: 40px 40px 0 40px;
-    max-width: 50%;
-    height: 500px;
+    max-width: 100%;
+    height: auto;
 }
 
 figure {
